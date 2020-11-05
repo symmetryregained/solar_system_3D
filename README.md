@@ -1,7 +1,7 @@
 # solar_system_3D
 A Wolfram Mathematica program that simulates the Solar System (Sun + 8 planets) using real astronomical data, Newtonian gravity and conservation laws.
 
-![Solar System 3D](/images/SS.png)
+![Solar System 3D](/SS.png)
 
 
 
