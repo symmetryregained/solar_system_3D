@@ -3,7 +3,9 @@ A Wolfram Mathematica program that simulates the Solar System (Sun + 8 planets) 
 
 ![Solar System 3D](/SS.png)
 
+![Solar System 3D](/img1.png)
 
+![Solar System 3D](/img2.png)
 
 ## Installation
 
